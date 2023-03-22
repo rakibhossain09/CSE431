@@ -1,14 +1,14 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/w0VCJ3L7srQ
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/193atdLYQgX34FuOZqeo56MxJLgI9LhCB2MNrUKLiOJ4/edit?usp=sharing
 
 Paper title:
-NLP using ANN
+Continual Few-Shot Learning for Text Classification
 
 Link to the paper:
-https://ieeexplore......
+https://aclanthology.org/2021.emnlp-main.460/
 
 Group Number:
 21
