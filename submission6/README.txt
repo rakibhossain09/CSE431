@@ -7,25 +7,25 @@ Unlisted YouTube video:
 https://youtu.be/AT_-JYhrH88
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://edas.info/showPaper.php?m=1570913073
 
 Paper title:
-Few-Shot Text Classification
+Exploring Few-Shot Learning for Federated Learning in NLP Tasks
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1-MT6ilASoroDfj7XxHXJTs5UQHGCzs17i4pnf5dtJuo/edit?usp=share_link
 
 Paper submission date (to workshop/conference):
-25 October 1999
+11 may 2023
 
 Paper submission ID: (received) from conference/workshop
-1341234
+1570913073
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
+R10 HTC 2023 Track X: Machine Learning for Humanity
 
 Conference URL:
-http://confsite/...
+https://r10htc2023.org/
 
 Group Number:
 21
